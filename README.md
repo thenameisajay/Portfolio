@@ -17,3 +17,13 @@ This project does not require any installation as it is a static website. Howeve
   <li>Clone the repository</li>
   <li> Open the <code> index.html </code> file in your preferred browser.</li>
 </ul>
+
+## Usage: 
+The Personal Portfolio Website is designed to showcase the skills, work, and interests of 'Ajay Pradeep Mahadeven'.
+
+It includes:
+<ol>
+  <li> A 'Projects' section, where you can view Ajay's completed and ongoing projects.</li>
+  <li> A 'Photography' section, where you can see Ajay's photography work.</li>
+  <li> A 'Writing' section, which redirects you to Ajay's Medium profile where he shares his writings.</li>
+  </ol>
