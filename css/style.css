@@ -3,3 +3,14 @@
     border-top: 2px solid gray;
     margin: 40px 0;
 }
+
+.centered-img {
+    object-fit: contain; /* This will make sure the image is scaled properly */
+    max-width: 100%; /* Ensures the image doesn't overflow its container */
+    height: auto; /* Ensures the image height adjusts automatically based on width */
+}
+
+
+
+
+
