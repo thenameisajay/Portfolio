@@ -1,0 +1,5 @@
+.my-separator {
+    border: none;
+    border-top: 2px solid gray;
+    margin: 40px 0;
+}
