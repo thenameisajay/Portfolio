@@ -1,4 +1,4 @@
-# Personal Portfolio Website (V 1.0)
+# Personal Portfolio Website (V 1.0)(redundant on 6-6-23)
 
 ## Description: 
 This repository contains a Personal Portfolio Website, written in HTML5 and using the Bootstrap framework. The portfolio showcases the profile, projects, and photography, along with a link to writings on Medium.
