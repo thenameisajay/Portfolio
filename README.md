@@ -1,4 +1,7 @@
-# Personal Portfolio Website (V 1.0)(redundant on 6-6-23)
+# Personal Portfolio Website (V 1.0)(redundant on 06-06-23) 
+
+## Link:
+https://thenameisajay.github.io/Portfolio/
 
 ## Description: 
 This repository contains a Personal Portfolio Website, written in HTML5 and using the Bootstrap framework. The portfolio showcases the profile, projects, and photography, along with a link to writings on Medium.
